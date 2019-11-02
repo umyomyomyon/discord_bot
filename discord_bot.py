@@ -3,7 +3,7 @@ import jaconv
 import discord
 from pykakasi import kakasi
 
-TOKEN = 'NjQwMTkyMjQ0Mzk3MjQ0NDU3.Xb2PkA.PuvQs22YgekXw6YxOxwCnBDNxGQ'
+TOKEN = ''
 
 kakasi = kakasi()
 kakasi.setMode('H', 'a')
